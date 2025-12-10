@@ -1,9 +1,8 @@
 # Larissa Fujiwara 👩🏻
 
-##Desenvolvedora Front End
+## Desenvolvedora Front End
 
 <p style="font-size:medium;">Oi!👋</p> 
-<br>
 <br>
 Me chamo Larissa Fujiwara, tenho 29 anos e sou de São Paulo. Sou formada em Engenharia da Computação pela UNIP e atuei no mercado de TI como consultora de soluções, onde tive oportunidade de participar de diferentes projetos e assumir diferentes papéis, desde analista de requisitos até scrum master.
 <br>

@@ -1,6 +1,6 @@
 # Larissa Fujiwara 👩🏻
 
-**`Desenvolvedora Front End`**
+<code style="font-size:18px;">Desenvolvedora Front End</code>
 
 Oi!👋 
 <br>

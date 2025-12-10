@@ -1,6 +1,6 @@
-<h1 style="color:#e1e1e1">Larissa Fujiwara 👩🏻 </h1>
+# Larissa Fujiwara 👩🏻
 
-<code style="background-color: #e1e1e1c1; color: #2c2424ff; font-weight:bold">Desenvolvedora Front End</code>
+**`Desenvolvedora Front End`**
 
 Oi!👋 
 <br>
